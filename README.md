@@ -94,6 +94,6 @@ Sample Value: *1.45*
 
 Description: *Represents the z-score for the CPI score. The z-score measures the relative position of a CPI score within the distribution of all CPI scores. It indicates how many standard deviations a particular CPI score is from the mean.*
 
-Data was used for:
+Data was used for educational dashboard:
 https://public.tableau.com/app/profile/georgi.shopov/viz/CorruptionAtlas/CorruptionPerceptionsIndexCPI
 
